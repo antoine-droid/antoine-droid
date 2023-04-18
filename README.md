@@ -37,10 +37,11 @@ Tools:
 </div>
 <br />
 <br />
-<div >
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoine-droid&theme=solarized_dark" alt="antoine-droid's GitHub stats" /> 
-<img align="left" src="https://kasroudra-stats-card.onrender.com/lang?user=antoine-droid&theme=react&layout=compact&type=donut&width=300&height=500&minimum=0.1&max_lang=8" alt="Top Langs"/>  
+<div  display: flex; >
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoine-droid&theme=solarized_dark" alt="antoine-droid's GitHub stats" /> 
+<img align="center" src="https://kasroudra-stats-card.onrender.com/lang?user=antoine-droid&theme=react&layout=compact&type=donut&width=300&height=500&minimum=0.1&max_lang=8" alt="Top Langs"/>  
 </div>
 <div>
 <br />
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=antoine-droid" alt="antoine-droid" />
+</div>
