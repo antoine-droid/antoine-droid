@@ -1,16 +1,11 @@
-<br />
-<br />
 <h1 align="center">Hi 👋, I'm Antoine</h1>
-<br />
 <br />
 <h3 align="center">A passionate Junior Web developer from France</h3>
 <br />
 <br />
 Languages :
 <br />
-<br />
 Front:
-<br />
 <br />
 <div display: inline-block;>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -21,9 +16,7 @@ Front:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 </div>
 <br />
-<br />
 Back:
-<br />
 <br />
 <div display: inline-block;>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
@@ -31,7 +24,6 @@ Back:
 </div>
 <br />
 Tools:
-<br />
 <br />
 <div display: inline-block;>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
