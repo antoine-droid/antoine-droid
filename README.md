@@ -5,7 +5,7 @@
 <br />
 Languages :
 <br />
-<div>
+<div display: inline-block;>
 Front:
 <br />
 <div align="left" display: inline-block;>
