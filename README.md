@@ -38,6 +38,8 @@ Tools:
 <br />
 <br />
 <div >
+<img align="bottom" src="https://leetcode.card.workers.dev/antoine-droid?theme=dark&font=milonga&extension=activity" alt="Top Langs"/>
+
 <img align="left" src="https://kasroudra-stats-card.onrender.com/lang?user=antoin-droid&layout=compact&type=donut&theme=solarized-dark" alt="Top Langs"/>  
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=antoine-droid&count_private=true&show_icons=true&include_all_commits=true&title_color=113dee&text_color=fcf7f7&icon_color=faf4f4&theme=solarized-dark" alt="antoine-droid's GitHub stats" /> 
 </div>
