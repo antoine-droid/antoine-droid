@@ -45,5 +45,5 @@ Tools:
 </div>
 <div>
 <br />
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=antoine-droid" alt="antoine-droid" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=antoine-droid" alt="antoine-droid" />
 </div>
