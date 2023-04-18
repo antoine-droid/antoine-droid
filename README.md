@@ -1,7 +1,13 @@
+<br />
+<br />
 <h1 align="center">Hi 👋, I'm Antoine</h1>
+<br />
+<br />
 <h3 align="center">A passionate Junior Web developer from France</h3>
+<br />
+<br />
 Languages :
-</br>
+<br />
 <div display: inline-block;>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
@@ -14,18 +20,19 @@ Languages :
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </div>
-
-</br>
+<br />
 Tools:
+<br />
+<br />
 <div display: inline-block;>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </div>
-</br>
-
+<br />
+<br />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoine-droid&layout=default&theme=radical" alt="Top Langs" style="margin: 20px 0px 20px 10px;" />  
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=antoine-droid&count_private=true&show_icons=true&include_all_commits=true&title_color=113dee&text_color=fcf7f7&icon_color=faf4f4&theme=solarized-dark" alt="antoine-droid's GitHub stats" style="margin: 20px 0px 20px 10px;" /> 
-</br>
-</br>
-</br>
+<br />
+<br />
 <img align="center" margin="2rem" src="https://github-profile-trophy.vercel.app/?username=antoine-droid" alt="antoine-droid" /> 
+<br />
