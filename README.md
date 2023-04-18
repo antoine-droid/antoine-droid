@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Junior Web developer from France</h3>
 </br>
 </br>
-<div style="display: flex margin-bottom: 30px;">
+##Stats:
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoine-droid&layout=default&theme=radical" alt="Top Langs" />  
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=antoine-droid&count_private=true&show_icons=true&include_all_commits=true&title_color=113dee&text_color=fcf7f7&icon_color=faf4f4&theme=solarized-dark" alt="antoine-droid's GitHub stats" /> 
-</div>
+
 
 ###Languages :
 
