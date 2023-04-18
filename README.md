@@ -43,7 +43,7 @@ Tools:
 <img align="center" src="https://kasroudra-stats-card.onrender.com/lang?user=antoine-droid&theme=react&layout=compact&type=donut&width=300&height=500&minimum=0.1&max_lang=8" alt="Top Langs"/>  
 </div>
 </div>
-<div>
+<div align="center">
 <br />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=antoine-droid" alt="antoine-droid" />
 </div>
