@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 <h3 align="center">A passionate Junior Web developer from France</h3>
 Languages :
-<div>
+<div display: inline-block;>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -14,11 +14,6 @@ Languages :
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </div>
 
-<style>
-div {
-  display: inline-block;
-}
-</style>
 </br>
 Tools:
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
