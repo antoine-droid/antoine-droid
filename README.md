@@ -32,7 +32,7 @@ Tools:
 </div>
 <br />
 <br />
-<div margin-bottom="2rem">
+<div margin: 2rem;>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoine-droid&layout=default&theme=radical" alt="Top Langs" />  
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=antoine-droid&count_private=true&show_icons=true&include_all_commits=true&title_color=113dee&text_color=fcf7f7&icon_color=faf4f4&theme=solarized-dark" alt="antoine-droid's GitHub stats" /> 
 </div>
