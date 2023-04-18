@@ -6,6 +6,9 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoine-droid&layout=default&theme=radical" alt="Top Langs" />  
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=antoine-droid&count_private=true&show_icons=true&include_all_commits=true&title_color=113dee&text_color=fcf7f7&icon_color=faf4f4&theme=solarized-dark" alt="antoine-droid's GitHub stats" /> 
 
+| Quelques statistiques | | |
+| :---: |:---:| :---:|
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=antoine-droid&theme=radical&hide_langs_below=8&count_private=true)     |  | ![](https://github-readme-stats.vercel.app/api?username=antoine-droid&show_icons=true&theme=radical&count_private=true) |
 
 ###Languages :
 
