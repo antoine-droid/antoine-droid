@@ -35,7 +35,6 @@ Tools:
 <div >
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoine-droid&layout=default&theme=radical" alt="Top Langs" style="margin-bottom: 2rem;" />  
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=antoine-droid&count_private=true&show_icons=true&include_all_commits=true&title_color=113dee&text_color=fcf7f7&icon_color=faf4f4&theme=solarized-dark" alt="antoine-droid's GitHub stats" style="margin-bottom: 2rem;" /> 
-<img align="center" bottom="0" src="https://github-profile-trophy.vercel.app/?username=antoine-droid" alt="antoine-droid" /> 
 </div>
 <br />
 <br />
@@ -43,7 +42,7 @@ Tools:
 <br />
 <br />
 <br />
-<div>
-
+<div align="left" bottom="0" top="2rem">
+<img src="https://github-profile-trophy.vercel.app/?username=antoine-droid" alt="antoine-droid" /> 
 </div>
 <br />
