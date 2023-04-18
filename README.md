@@ -14,4 +14,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoine-droid&layout=compact&theme=radical&langs_count=8)](https://github.com/antoine-droid/github-readme-stats)
 </p>
 
-<p>[![antoine-droid's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoine-droid&hide=prs,commits,issues,contribs&count_private=true&show_icons=true&include_all_commits=true&title_color=113dee&text_color=fcf7f7&icon_color=faf4f4&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p>https://github-readme-stats.vercel.app/api?username=antoine-droid&hide=prs,commits,issues,contribs&count_private=true&show_icons=true&include_all_commits=true&title_color=113dee&text_color=fcf7f7&icon_color=faf4f4&theme=solarized-dark</p>
