@@ -23,13 +23,13 @@ Back:
 <div display: inline-block;>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"alt="express" width="85" height="60"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"  alt="nodejs" width="60" height="60"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> 
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb" width="85" height="60"/> 
 </div>
 <br />
 Tools:
 <br />
 <div display: inline-block;>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> 
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb" width="85" height="60"/> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"alt="trello" width="60" height="60"/>
@@ -37,9 +37,11 @@ Tools:
 </div>
 <br />
 <br />
-<div  display: flex; >
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoine-droid&theme=solarized_dark" alt="antoine-droid's GitHub stats" /> 
+<div display: flex;>
+<div>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoine-droid&theme=solarized_dark" alt="antoine-droid's GitHub stats" /></div> <div>
 <img align="center" src="https://kasroudra-stats-card.onrender.com/lang?user=antoine-droid&theme=react&layout=compact&type=donut&width=300&height=500&minimum=0.1&max_lang=8" alt="Top Langs"/>  
+</div>
 </div>
 <div>
 <br />
