@@ -38,8 +38,8 @@ Tools:
 <br />
 <br />
 <div display: flex;>
-<div>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoine-droid&theme=solarized_dark" alt="antoine-droid's GitHub stats" /></div> <div>
+<div align="center">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoine-droid&theme=solarized_dark" alt="antoine-droid's GitHub stats" /></div> <div align="center">
 <img align="center" src="https://kasroudra-stats-card.onrender.com/lang?user=antoine-droid&theme=react&layout=compact&type=donut&width=300&height=500&minimum=0.1&max_lang=8" alt="Top Langs"/>  
 </div>
 </div>
